@@ -56,7 +56,7 @@ layers:
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
-  - {t: '$$mdi:backspace$$', h: '$$mdi:apple-keyboard-command$$'}
+  - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-space$$
   - LAYER1
   - {t: '$$mdi:keyboard-return$$', type: enter}
@@ -330,3 +330,5 @@ combos:
   k: '&soft_off'
 - p: [39, 51]
   k: $$mdi:alpha-w-box$$
+- p: [35, 36]
+  k: $$mdi:keyboard-esc$$
