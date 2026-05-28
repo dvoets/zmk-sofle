@@ -76,9 +76,9 @@ layers:
   - F6
   - F7
   - F8
-  - F9
   - {t: '-', s: _}
   - {t: '=', s: +}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '`', s: '~'}
   - $$mdi:mouse-left-click-outline$$
