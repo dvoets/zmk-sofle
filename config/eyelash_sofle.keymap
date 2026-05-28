@@ -55,7 +55,7 @@
 
         jk_esc {
             bindings = <&kp ESC>;
-            key-positions = <35 36>;
+            key-positions = <34 35>;
         };
     };
 
