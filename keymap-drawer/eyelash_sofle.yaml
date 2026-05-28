@@ -330,5 +330,5 @@ combos:
   k: '&soft_off'
 - p: [39, 51]
   k: $$mdi:alpha-w-box$$
-- p: [35, 36]
+- p: [34, 35]
   k: $$mdi:keyboard-esc$$
